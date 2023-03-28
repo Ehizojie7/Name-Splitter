@@ -1,0 +1,19 @@
+
+.buttons{
+    margin-left: 24px;
+    margin-bottom: 8px;
+}
+
+
+.delete{
+    background-color: red;
+    margin-left: 8px;
+    outline: none;
+    border: 0px;
+}
+
+.edit{
+    background-color: lightblue;
+    color: black;
+    border: 0px;
+}
