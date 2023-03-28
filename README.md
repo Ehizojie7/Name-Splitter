@@ -11,7 +11,7 @@ To run this app locally, follow the instructions below:
 
 4. After installation, run npm start to start the app.
 
-5. Once the app is running, open a web browser and navigate to http://localhost:3000/.
+5. Once the app is running, open a web browser and navigate to http://localhost:5173/.
 
 6. Enter a list of names separated by commas into the text field and click the "Submit" button to see the names displayed in a table below.
 
